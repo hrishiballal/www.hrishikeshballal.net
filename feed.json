@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "www.hrishikeshballal.net",
+    "description": "",
+    "home_page_url": "https://www.hrishikeshballal.net",
+    "feed_url": "https://www.hrishikeshballal.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hrishikesh Ballal"
+    },
+    "items": [
+        {
+            "id": "https://www.hrishikeshballal.net/about.html",
+            "url": "https://www.hrishikeshballal.net/about.html",
+            "title": "About",
+            "summary": "I am Hrishikesh Ballal, welcome to my website. I have had this site in one form or the other for the past 25 years or so. In real life, everyone calls me Hrishi. The H is silent so it is pronounced as ‘Reeshee’. My name,&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.hrishikeshballal.net/media/posts/1/photo_2018-04-25_21-32-46-bw.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://www.hrishikeshballal.net/media/posts/1/responsive/photo_2018-04-25_21-32-46-bw-xs.jpg 300w ,https://www.hrishikeshballal.net/media/posts/1/responsive/photo_2018-04-25_21-32-46-bw-sm.jpg 480w ,https://www.hrishikeshballal.net/media/posts/1/responsive/photo_2018-04-25_21-32-46-bw-md.jpg 768w\"  alt=\"\" width=\"446\" height=\"380\"></figure>\n<p>I am Hrishikesh Ballal, welcome to my website. I have had this site in one form or the other for the past 25 years or so. In real life, everyone calls me Hrishi. The H is silent so it is pronounced as ‘Reeshee’. My name, ऋषिकेश in Devanagari / Marathi has a Sanskrit origin. <a href=\"https://en.wikipedia.org/wiki/Rishikesh\">Rishikesh</a> is also the name of a ancient city in the foothills of the Himalayas. This site provides Atom or RSS feeds and you can subscribe to them to get the latest. I am <a href=\"http://www.twitter.com/hrishiballal\">@hrishiballal</a> on Twitter and also on <a href=\"https://www.linkedin.com/in/hrishiballal\">LinkedIn</a> and <a href=\"https://www.github.com/hrishiballal/\">Github</a>.</p>\n<p>I am Mechanical Engineer by training specializing in Engineering Design, Operations Research with degrees from <a href=\"http://www.umich.edu/\">University of Michigan</a> and <a href=\"http://www.mit.edu/\">MIT</a>. In 2015, I completed my PhD at the <a href=\"http://www.bartlett.ucl.ac.uk/casa\">Centre for Advanced Spatial Analysis</a> at University College London with a focus on geodesign. My thesis was around early stage design and is entitled <a href=\"http://discovery.ucl.ac.uk/1471177/\">Collaborative planning with digital design synthesis</a>.</p>\n<p>I have built and work on three things: Geoforage.io, Geodesignhub.com and Openskies.sh.</p>\n<p><a href=\"https://www.geoforage.io/\">Geoforage.io</a> is a spatial data collection product primarily used in the context of public engagement. We provide services to understand the preferences and capture the knowledge of a space directly from citizens and other people who use it. In addition to enabling these “geo-surveys” we host your spatial data, analyze it and help you understand the location you are working on.</p>\n<p><a href=\"https://www.geodesignhub.com/\">Geodesignhub.com</a> provides software for mediation and negotiations about difficult social political problems around a space. In addition to enabling negotiations using our technology, we provide project organization and management support around implementation of the negotiated outcomes.</p>\n<p><a href=\"https://openskies.sh/\">Openskies.sh</a> is a open source software company to support current and future aerial robotics ecosystem. My focus is on drone registration and “bringing drone registries online”. Specifically, I work on Identity and Authentication and API harmonization for drone operations. I also work with different stakeholders around regulatory aspects of unmanned aviation and its integration with national and international airspace.</p>\n<p>My expertise and work in the “geo” domain has a strong mechanical / systems engineering focus. I am a founding member the local chapter of OSGEO: <a href=\"https://wiki.osgeo.org/wiki/Ireland\">OSGeo Ireland</a> and a huge advocate of open data for governance and public policy. I feel like I have had many lives professionally. I have written a huge amount of closed and open source software, worked in the automotive industry, United Nations, spent time in Japan, worked at Microsoft among other things. Prior to my “geo” focus, I was working as a regulatory expert on the hardware aspects of consumer electronics. It all started when I was offered a fellowship to work on solving the collection and end-of-life aspects of e-waste and it was the thesis for my <a href=\"http://dspace.mit.edu/handle/1721.1/47866\">degree</a>.</p>\n<p>All content in this site is licensed under the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution 3.0 License</a>. Unless otherwise stated, everything here is © 1996 ~ 2020 Hrishikesh Ballal.</p>",
+            "author": {
+                "name": "Hrishikesh Ballal"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-17T10:32:34+01:00",
+            "date_modified": "2020-08-17T10:32:34+01:00"
+        }
+    ]
+}
